@@ -1,0 +1,16 @@
+{
+  "name": "testocr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-tesseract-ocr": "^2.2.1",
+    "tesseract.js": "^5.1.1"
+  }
+}
